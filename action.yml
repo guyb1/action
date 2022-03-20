@@ -26,4 +26,4 @@ inputs:
 
 runs:
   using: "docker"
-  image: "docker://argonsecurity/scanner:github"
+  image: "docker://argonsecurity/scanner:github-0.1.119-debug-github.11"
